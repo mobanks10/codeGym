@@ -3,7 +3,7 @@ var foggyNight = false;
 
 if (moonPhase === 'full' && foggyNight) {
   console.log('Howwlll!');
-} else if (moonPhase === 'I swear I am not a werewolf...') {
+} else if (moonPhase === 'mostly full') {
   console.log('Arms and legs are getting hairier');
 } else if (moonPhase === 'mostly new') { 
   console.log('Back on two feet');
